@@ -1,0 +1,11 @@
+git clone url--------> baraye copy dar an url be pc
+vim readme.md --------> text editor :x save exite  :q quite
+git add filechanged.extention  enter
+git commit -help
+ git commit -m"updated readme file for better description"
+
+git log ----> baraye didane taghirat
+git status
+git remote add origin https:// https://github.com/m827/Test
+git push -u origin master ---> baraye update
+touch testfile.txt --> for creating local file in repository
